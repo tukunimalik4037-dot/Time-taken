@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TimeTrack AI</string>
+    <string name="accessibility_service_description">TimeTrack AI optional screen activity monitor. Used exclusively to measure app usage sessions and scroll interaction signals when enabled by the user. No sensitive or private screen contents are ever read or stored.</string>
+    <string name="channel_timetable_reminders">Timetable &amp; Activity Reminders</string>
+    <string name="channel_timetable_reminders_desc">High-priority alerts for scheduled timetable activities, study blocks, and tasks.</string>
+    <string name="channel_summaries">AI Summaries &amp; Insights</string>
+    <string name="channel_summaries_desc">Daily &amp; weekly productivity reviews and smart insights.</string>
+    <string name="channel_monitoring">Activity Monitor Service</string>
+    <string name="channel_monitoring_desc">Active status notification for screen activity analytics.</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "TimeTrack AI",
+  "description": "Real-Time Timetable & Screen Activity Analytics App with smart notifications, privacy controls, and AI insights",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
